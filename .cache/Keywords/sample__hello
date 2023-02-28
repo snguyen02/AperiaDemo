@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "E1BD874A8F7CCC9057D1C7A49BD20D40",
+  "keywordClasses": [
+    {
+      "name": "sample.hello",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

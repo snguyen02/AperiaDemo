@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "F0CDB9899700C0EA403DFCE63585E888",
+  "keywordClasses": [
+    {
+      "name": "sample.Employee",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
