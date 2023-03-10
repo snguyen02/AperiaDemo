@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_makeAppointment</name>
+   <name>lbl_dangnhap</name>
    <tag></tag>
-   <elementGuidId>4ad90ce7-fd30-4a8a-ab21-75440a8e5513</elementGuidId>
+   <elementGuidId>41e489c6-dc6a-47dd-80e4-b3abd9e89ddd</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//li/a[contains(text(),&quot;Đăng nhập&quot;)]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[contains(text(),'Book Appointment')]</value>
+         <key>BASIC</key>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
