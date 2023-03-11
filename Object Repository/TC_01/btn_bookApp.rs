@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_makeAppointment</name>
+   <name>btn_bookApp</name>
    <tag></tag>
-   <elementGuidId>6403a4c3-8f42-4428-aa92-1499caa63ccc</elementGuidId>
+   <elementGuidId>75b1c426-64f6-4f1d-a896-2c1284bfec06</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//button[contains(text(),'Book Appointment')]</value>
+         <value>//div/button[@id='btn-book-appointment']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

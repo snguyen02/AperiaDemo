@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btn_makeAppointment</name>
+   <name>lbl_welcome</name>
    <tag></tag>
-   <elementGuidId>4ad90ce7-fd30-4a8a-ab21-75440a8e5513</elementGuidId>
+   <elementGuidId>cdb48022-46ec-4a24-91b5-20e5369d9770</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//div/h4[@class='subheader']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[contains(text(),'Book Appointment')]</value>
+         <key>BASIC</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
