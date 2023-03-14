@@ -30,7 +30,7 @@ if(isFramePresent){
 	WebUI.click(findTestObject('Object Repository/topic_09/btn_close'));
 	WebUI.switchToDefaultContent()
 }
-//WebUI.switchToDefaultContent()
+
 
 // Input email
 WebUI.setText(findTestObject('Object Repository/topic_09/txt-emailID'), emailId,FailureHandling.STOP_ON_FAILURE);
