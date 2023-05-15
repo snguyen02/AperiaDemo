@@ -3,12 +3,12 @@ import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-String url = "http://the-internet.herokuapp.com/windows"; 
+String url = "http://live.techpanda.org/index.php";
 
 '1. Open browser'
 WebUI.openBrowser(url);
 WebUI.maximizeWindow()
-'2. CLick Here hyperlink'
+'2. CLick Mobile menu'
 WebUI.click(findTestObject('Object Repository/topic14/link_clickHere'));
 '3. Switch to new tab'
 WebUI.switchToWindowIndex(1)
